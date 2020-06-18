@@ -12,3 +12,11 @@ label:first-child {
     display: inline-block;
     width: 100px
   }
+  .middle {
+      position: relative;
+      top: -20px
+  }
+  .end {
+      position: relative;
+      top: -20px;
+  }
