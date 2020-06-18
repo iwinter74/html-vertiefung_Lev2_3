@@ -8,7 +8,7 @@ fieldset {
 div {
     padding-bottom: 1em;
 }
-label {
+label:first-child {
     display: inline-block;
     width: 100px
   }
